@@ -1,0 +1,392 @@
+{
+"name": "AMOLED Yellow Naruto",
+"description": "Pure AMOLED black with Naruto-inspired yellow, gold and orange accents.",
+"version": "1",
+"authors": [
+{
+"name": "GAMER_INFINITE",
+"id": "0"
+}
+],
+
+"background": {
+"url": "https://raw.githubusercontent.com/sosukii/naruto-wallpapers/master/morning/01.jpg",
+"blur": 0.7,
+"alpha": 0.28,
+"size": "cover",
+"position": "center"
+},
+
+"plus": {
+"version": 0,
+"mentionLineColor": "#FFD600",
+"iconpack": "rosiecord-plumpy"
+},
+
+"semanticColors": {
+"MOBILE_TEXT_HEADING_PRIMARY": "#FFD600",
+"TEXT_STRONG": "#FFFFFF",
+"TEXT_DEFAULT": "#FFFFFF",
+"TEXT_MUTED": "#FFD600",
+"INTERACTIVE_TEXT_DEFAULT": "#FFD600",
+"INTERACTIVE_TEXT_HOVER": "#FFEA00",
+"INTERACTIVE_TEXT_ACTIVE": "#FFC107",
+"INTERACTIVE_MUTED": "#4A3A00",
+
+"BACKGROUND_BASE_PRIMARY": "#000000",  
+"BACKGROUND_BASE_SECONDARY": "#000000",  
+"BACKGROUND_BASE_TERTIARY": "#000000",  
+"BACKGROUND_ACCENT": "#161200",  
+"BACKGROUND_FLOATING": "#000000",  
+"PANEL_BG": "#000000",  
+"BACKGROUND_MOBILE_PRIMARY": "#000000",  
+"BACKGROUND_MOBILE_SECONDARY": "#000000",  
+"BACKGROUND_NESTED_FLOATING": "#000000",  
+"BACKGROUND_MOD_SUBTLE": "#FFD60018",  
+"BACKGROUND_MOD_STRONG": "#FFD60030",  
+"BACKGROUND_MENTIONED": "#FFD60020",  
+"BACKGROUND_MESSAGE_HOVER": "#FFD60018",  
+"BACKGROUND_MODIFIER_ACCENT": "#FFD60020",  
+"BACKGROUND_MODIFIER_HOVER": "#FFD60018",  
+"BACKGROUND_MODIFIER_ACTIVE": "#FFD60030",  
+"BACKGROUND_MODIFIER_SELECTED": "#FFD60025",  
+"BACKGROUND_SCRIM": "#000000B2",  
+
+"EMBED_BACKGROUND": "#000000D0",  
+"CHANNELTEXTAREA_BACKGROUND": "#0A0A0A",  
+"CHAT_BACKGROUND": "#000000",  
+"CHAT_INPUT_BACKGROUND": "#0A0A0A",  
+
+"BORDER_STRONG": "#FFD600",  
+"BORDER_SUBTLE": "#FFD60030",  
+"BORDER_FAINT": "#FFD60020",  
+
+"HEADER_PRIMARY": "#FFFFFF",  
+"HEADER_SECONDARY": "#FFD600",  
+
+"ICON_DEFAULT": "#FFD600",  
+"ICON_MUTED": "#B89600",  
+"ICON_STRONG": "#FFFFFF",  
+"ICON_INTERACTIVE": "#FFD600",  
+"ICON_INTERACTIVE_ACTIVE": "#FFEA00",  
+
+"BUTTON_PRIMARY_BACKGROUND": "#FFD600",  
+"BUTTON_PRIMARY_BACKGROUND_HOVER": "#FFEA00",  
+"BUTTON_PRIMARY_TEXT": "#000000",  
+"BUTTON_SECONDARY_BACKGROUND": "#151515",  
+"BUTTON_SECONDARY_BACKGROUND_HOVER": "#FFD60025",  
+"BUTTON_SECONDARY_TEXT": "#FFFFFF",  
+
+"TEXT_LINK": "#FFD600",  
+"TEXT_LINK_HOVER": "#FFEA00",  
+"TEXT_POSITIVE": "#FFD600",  
+"TEXT_WARNING": "#FFC107",  
+"TEXT_DANGER": "#FF9800",  
+
+"CONTROL_BRAND_FOREGROUND": "#FFD600",  
+"CONTROL_BRAND_FOREGROUND_NEW": "#FFD600",  
+"CONTROL_BRAND_BACKGROUND": "#FFD600",  
+"CONTROL_BRAND_BACKGROUND_HOVER": "#FFEA00",  
+"CONTROL_BRAND_BACKGROUND_ACTIVE": "#FFC107",  
+
+"STATUS_DANGER": "#FF9800",  
+"STATUS_WARNING": "#FFC107",  
+"STATUS_POSITIVE": "#FFD600",  
+"STATUS_ONLINE": "#FFD600",  
+
+"MENTION_BACKGROUND": "#FFD60025",  
+"MENTION_FOREGROUND": "#FFD600",  
+
+"MESSAGE_MENTIONED_BACKGROUND_DEFAULT": "#FFD60025",  
+"MESSAGE_MENTIONED_BORDER": "#FFD600",  
+
+"CARD_PRIMARY_BG": "#000000",  
+"CARD_SECONDARY_BG": "#0A0A0A",  
+"CARD_BORDER": "#FFD60030",  
+
+"SCROLLBAR_THIN_THUMB": "#FFD600",  
+"SCROLLBAR_THIN_TRACK": "#000000",  
+
+"INPUT_BACKGROUND": "#0A0A0A",  
+"INPUT_BORDER": "#FFD60030",  
+"INPUT_PLACEHOLDER_TEXT": "#8F7800",  
+
+"PROFILE_BODY_BACKGROUND": "#000000",  
+"PROFILE_BANNER_BACKGROUND": "#0A0A0A",  
+
+"CHANNEL_ICON": "#FFD600",  
+"CHANNEL_ICON_MUTED": "#6F5C00",  
+"CHANNELS_DEFAULT": "#FFFFFF",  
+"CHANNELS_DEFAULT_ACTIVE": "#FFD600",  
+
+"GUILD_HEADER_TEXT": "#FFFFFF",  
+"GUILD_HEADER_TEXT_HOVER": "#FFD600",  
+
+"INTERACTIVE_NORMAL": "#FFD600",  
+"INTERACTIVE_HOVER": "#FFEA00",  
+"INTERACTIVE_ACTIVE": "#FFC107",  
+"INTERACTIVE_NORMAL_ACTIVE": "#FFD600",  
+
+"FOCUS_PRIMARY": "#FFD600",  
+"FOCUS_PRIMARY_HOVER": "#FFEA00"
+
+},
+
+"rawColors": {
+"PRIMARY_100": "#FFFFFF",
+"PRIMARY_200": "#FFD600",
+"PRIMARY_230": "#FFEA00",
+"PRIMARY_300": "#FFFFFF",
+"PRIMARY_400": "#FFD600",
+"PRIMARY_500": "#000000",
+"PRIMARY_600": "#000000",
+"PRIMARY_630": "#000000",
+"PRIMARY_645": "#000000",
+"PRIMARY_660": "#000000",
+"PRIMARY_700": "#000000",
+"PRIMARY_730": "#000000",
+"PRIMARY_800": "#FFD60030",
+"PRIMARY_830": "#000000",
+
+"BRAND_100": "#FFF8D6",  
+"BRAND_160": "#FFF3A3",  
+"BRAND_200": "#FFEA00",  
+"BRAND_260": "#FFD600",  
+"BRAND_300": "#FFD600",  
+"BRAND_360": "#FFC107",  
+"BRAND_400": "#FFD600",  
+"BRAND_500": "#171300",  
+"BRAND_530": "#0D0B00",  
+"BRAND_560": "#000000",  
+
+"RED_400": "#FF9800",  
+"RED_430": "#000000",  
+"RED_460": "#000000",  
+
+"GREEN_360": "#FFD600",  
+"GREEN_430": "#FFD600",  
+"GREEN_460": "#FFD600",  
+
+"BLUE_345": "#FFD600",  
+
+"WHITE_500": "#FFFFFF",  
+"BLACK_500": "#000000",  
+
+"PLUM_7": "#FFFFFF",  
+"PLUM_8": "#FFFFFF",  
+"PLUM_10": "#FFFFFF",  
+"PLUM_12": "#000000",  
+
+"NEUTRAL_1": "#FFFFFF",  
+"NEUTRAL_2": "#FFFDF0",  
+"NEUTRAL_3": "#FFF9D6",  
+"NEUTRAL_4": "#FFF3A3",  
+"NEUTRAL_5": "#FFEA00",  
+"NEUTRAL_6": "#FFD600",  
+"NEUTRAL_7": "#FFC107",  
+"NEUTRAL_8": "#000000",  
+"NEUTRAL_9": "#000000",  
+"NEUTRAL_10": "#000000",  
+"NEUTRAL_20": "#000000",  
+"NEUTRAL_30": "#000000",  
+"NEUTRAL_40": "#000000",  
+"NEUTRAL_50": "#000000",  
+"NEUTRAL_60": "#000000",  
+"NEUTRAL_70": "#000000",  
+"NEUTRAL_80": "#000000",  
+"NEUTRAL_90": "#000000",  
+"NEUTRAL_100": "#000000",  
+
+"GREEN_NEW_22": "#FFD600",  
+"GREEN_NEW_25": "#FFD600",  
+
+"CONTROL_CONNECTED": "#FFD600",  
+"CONTROL_CONNECTED_ACTIVE": "#FFC107",  
+
+"OPACITY_GREEN_8": "#FFD60014",  
+"OPACITY_GREEN_52": "#FFD60085",  
+
+"BLURPLE_1": "#FFD600",  
+"BLURPLE_2": "#FFD600",  
+"BLURPLE_3": "#FFD600",  
+"BLURPLE_4": "#FFD600",  
+"BLURPLE_5": "#FFD600",  
+"BLURPLE_6": "#FFD600",  
+"BLURPLE_7": "#FFD600",  
+"BLURPLE_8": "#FFD600",  
+"BLURPLE_9": "#FFD600",  
+"BLURPLE_10": "#FFD600",  
+
+"APPLICATION_SUBSCRIPTION_START": "#FFC107",  
+
+"BG_GRADIENT_GREEN_1": "#FFD600",  
+"BG_GRADIENT_GREEN_2": "#FFC107",  
+"BG_GRADIENT_GREEN_3": "#FF9800",  
+
+"BLUE_160": "#FFF176",  
+"BLUE_200": "#FFEE58",  
+"BLUE_300": "#FFD740",  
+"BLUE_400": "#FFD600",  
+"BLUE_430": "#FFC107",  
+"BLUE_460": "#FFB300",  
+
+"BLUE_NEW_1": "#FFFDE7",  
+"BLUE_NEW_10": "#FFF9C4",  
+"BLUE_NEW_20": "#FFF59D",  
+"BLUE_NEW_30": "#FFEE58",  
+"BLUE_NEW_40": "#FFD740",  
+"BLUE_NEW_50": "#FFD600",  
+"BLUE_NEW_55": "#FFC107",  
+
+"CHECKPOINT_GREEN": "#FFD600",  
+"CHECKPOINT_YELLOW": "#FFC107",  
+"CHECKPOINT_ORANGE": "#FF9800",  
+
+"GUILD_BOOSTING_PINK": "#FFD600",  
+"GUILD_BOOSTING_PURPLE": "#FFC107",  
+
+"HYPESQUAD_HOUSE_1": "#FFD600",  
+
+"OPACITY_BLUE_8": "#FFD60014",  
+"OPACITY_BLUE_16": "#FFD60029",  
+"OPACITY_BLUE_24": "#FFD6003D",  
+"OPACITY_BLUE_32": "#FFD60052",  
+"OPACITY_BLUE_64": "#FFD600A3",  
+
+"OPACITY_BLURPLE_8": "#FFD60014",  
+"OPACITY_BLURPLE_16": "#FFD60029",  
+"OPACITY_BLURPLE_24": "#FFD6003D",  
+"OPACITY_BLURPLE_32": "#FFD60052",  
+"OPACITY_BLURPLE_64": "#FFD600A3",  
+
+"OPACITY_RED_8": "#FFD60014",  
+"OPACITY_RED_16": "#FFD60029",  
+"OPACITY_RED_24": "#FFD6003D",  
+"OPACITY_RED_32": "#FFD60052",  
+"OPACITY_RED_64": "#FFD600A3",  
+
+"RED_NEW_1": "#FFF8D6",  
+"RED_NEW_2": "#FFF3A3",  
+"RED_NEW_3": "#FFEA00",  
+"RED_NEW_4": "#FFD600",  
+"RED_NEW_5": "#FFC107",  
+"RED_NEW_6": "#FFB300",  
+"RED_NEW_7": "#FF9800",  
+"RED_NEW_8": "#F57C00",  
+"RED_NEW_9": "#E65100",  
+"RED_NEW_10": "#BF360C",  
+
+"TEAL_100": "#FFD600",  
+"TEAL_200": "#FFD600",  
+"TEAL_300": "#FFC107",  
+"TEAL_400": "#FFB300",  
+"TEAL_500": "#FF9800",  
+
+"ROLE_SKY_BLUE": "#FFD600",  
+"ROLE_GREY": "#FFFFFF",  
+"ROLE_LIGHT_GREY": "#FFFFFF"
+
+},
+
+"fonts": {
+"ABCGintoNord-ExtraBold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-ExtraBold.ttf?raw=1",
+"ggsans-Bold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Bold.ttf?raw=1",
+"ggsans-BoldItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-BoldItalic.ttf?raw=1",
+"ggsans-ExtraBold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-ExtraBold.ttf?raw=1",
+"ggsans-ExtraBoldItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-ExtraBoldItalic.ttf?raw=1",
+"ggsans-Medium": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Medium.ttf?raw=1",
+"ggsans-MediumItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-MediumItalic.ttf?raw=1",
+"ggsans-Normal": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Normal.ttf?raw=1",
+"ggsans-NormalItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-NormalItalic.ttf?raw=1",
+"ggsans-Semibold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Semibold.ttf?raw=1",
+"ggsans-SemiboldItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-SemiboldItalic.ttf?raw=1",
+"NotoSans-Bold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Bold.ttf?raw=1",
+"NotoSans-ExtraBold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-ExtraBold.ttf?raw=1",
+"NotoSans-Medium": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Medium.ttf?raw=1",
+"NotoSans-Normal": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Normal.ttf?raw=1",
+"NotoSans-NormalItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-NormalItalic.ttf?raw=1",
+"NotoSans-Semibold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Semibold.ttf?raw=1",
+"SourceCodePro-Semibold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Semibold.ttf?raw=1"
+},
+
+"spec": 2,
+
+"sysColors": {
+"accent1": [
+"#FFFFFF",
+"#FFFDE7",
+"#FFF9C4",
+"#FFF59D",
+"#FFEE58",
+"#FFEB3B",
+"#FFD740",
+"#FFD600",
+"#FFC107",
+"#FFB300",
+"#FF9800",
+"#F57C00",
+"#E65100"
+],
+"accent2": [
+"#FFFFFF",
+"#FFFDE7",
+"#FFF9C4",
+"#FFF59D",
+"#FFEE58",
+"#FFEB3B",
+"#FFD740",
+"#FFD600",
+"#FFC107",
+"#FFB300",
+"#FF9800",
+"#F57C00",
+"#E65100"
+],
+"accent3": [
+"#FFFFFF",
+"#FFFDE7",
+"#FFF9C4",
+"#FFF59D",
+"#FFEE58",
+"#FFEB3B",
+"#FFD740",
+"#FFD600",
+"#FFC107",
+"#FFB300",
+"#FF9800",
+"#F57C00",
+"#E65100"
+],
+"neutral1": [
+"#000000",
+"#000000",
+"#000000",
+"#000000",
+"#000000",
+"#000000",
+"#000000",
+"#000000",
+"#000000",
+"#000000",
+"#000000",
+"#000000",
+"#000000"
+],
+"neutral2": [
+"#000000",
+"#000000",
+"#000000",
+"#000000",
+"#000000",
+"#000000",
+"#000000",
+"#000000",
+"#000000",
+"#000000",
+"#000000",
+"#000000",
+"#000000"
+]
+}
+}
+Ebar thik ase

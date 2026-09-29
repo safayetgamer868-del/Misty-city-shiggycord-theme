@@ -1,0 +1,209 @@
+{
+  "name": "FRIEREN — PEACEFUL NIGHT",
+  "description": "A full-screen Frieren inspired theme with a transparent black UI, soft lavender-blue accents and a continuous background across Discord.",
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "GAMER_INFINITE"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": ["#08090A99"],
+    "BACKGROUND_SECONDARY": ["#05050699"],
+    "BACKGROUND_SECONDARY_ALT": ["#0B0B0CCC"],
+    "BACKGROUND_TERTIARY": ["#0A0A0B80"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#08090A99"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#05050699"],
+    "BACKGROUND_FLOATING": ["#08090ACC"],
+    "BACKGROUND_NESTED_FLOATING": ["#08090ACC"],
+
+    "BACKGROUND_MODIFIER_ACCENT": ["#B8B1D933"],
+    "BACKGROUND_MODIFIER_HOVER": ["#B8B1D91A"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#B8B1D92E"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#B8B1D938"],
+
+    "BACKGROUND_MESSAGE_HOVER": ["#B8B1D914"],
+    "CHAT_BACKGROUND": ["#08090A55"],
+    "CHANNELTEXTAREA_BACKGROUND": ["#05050699"],
+
+    "HEADER_PRIMARY": ["#F0EDF7"],
+    "HEADER_SECONDARY": ["#C4C0D0"],
+    "TEXT_PRIMARY": ["#EAE7F0"],
+    "TEXT_NORMAL": ["#DDD9E6"],
+    "TEXT_SECONDARY": ["#AAA5B8"],
+    "TEXT_MUTED": ["#888395"],
+
+    "INTERACTIVE_NORMAL": ["#BDB8CA"],
+    "INTERACTIVE_HOVER": ["#E9E5F0"],
+    "INTERACTIVE_ACTIVE": ["#F3EFF8"],
+    "INTERACTIVE_MUTED": ["#777281"],
+
+    "CHANNELS_DEFAULT": ["#BDB8CA"],
+    "CHANNEL_ICON": ["#9E98AC"],
+    "TEXT_LINK": ["#B7C5D8"],
+
+    "MENTION_BACKGROUND": ["#B7A9D82E"],
+    "MENTION_FOREGROUND": ["#D8D0EA"],
+
+    "BORDER_FAINT": ["#B8B1D91F"],
+    "BORDER_SUBTLE": ["#B8B1D926"],
+    "BORDER_STRONG": ["#B8B1D966"],
+
+    "EMBED_BACKGROUND": ["#08090A66"],
+    "CARD_PRIMARY_BG": ["#08090A80"],
+    "CARD_SECONDARY_BG": ["#05050680"],
+
+    "REDESIGN_CHAT_INPUT_BACKGROUND": ["#05050699"],
+    "REDESIGN_CHANNEL_NAME_TEXT": ["#DDD9E6"],
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": ["#B9B0C9"],
+
+    "STATUS_ONLINE": ["#9EB69F"],
+    "STATUS_IDLE": ["#C9B98D"],
+    "STATUS_DND": ["#B9828A"],
+    "STATUS_OFFLINE": ["#777784"],
+    "STATUS_STREAMING": ["#9B91C4"]
+  },
+
+  "rawColors": {
+    "PRIMARY_100": "#FFFFFF",
+    "PRIMARY_200": "#F5F2FA",
+    "PRIMARY_300": "#EAE7F0",
+    "PRIMARY_330": "#DDD9E6",
+    "PRIMARY_360": "#C4C0D0",
+    "PRIMARY_400": "#AAA5B8",
+    "PRIMARY_460": "#777281",
+    "PRIMARY_500": "#08090A",
+    "PRIMARY_530": "#0A0A0B",
+    "PRIMARY_600": "#050506",
+    "PRIMARY_630": "#050506",
+    "PRIMARY_645": "#08090A",
+    "PRIMARY_660": "#0A0A0B",
+    "PRIMARY_700": "#050506",
+    "PRIMARY_730": "#08090A",
+    "PRIMARY_800": "#050506",
+
+    "BRAND_260": "#D8D0EA",
+    "BRAND_300": "#C8BFDC",
+    "BRAND_330": "#B8B1D9",
+    "BRAND_345": "#AEA5D0",
+    "BRAND_360": "#9B91C4",
+    "BRAND_400": "#8D83B8",
+    "BRAND_430": "#393548",
+    "BRAND_460": "#2B2938",
+    "BRAND_500": "#9B91C4",
+    "BRAND_530": "#302D3D",
+    "BRAND_560": "#252330",
+    "BRAND_600": "#1C1A24",
+    "BRAND_630": "#15141B",
+    "BRAND_660": "#0D0D11",
+    "BRAND_700": "#08090A",
+    "BRAND_730": "#050506",
+
+    "BLUE_260": "#D1D9E8",
+    "BLUE_300": "#C3CFDF",
+    "BLUE_330": "#B7C5D8",
+    "BLUE_345": "#AABBD0",
+    "BLUE_360": "#9FB1C8",
+    "BLUE_400": "#91A5BD",
+    "BLUE_430": "#303640",
+    "BLUE_460": "#252A31",
+    "BLUE_500": "#91A5BD",
+    "BLUE_530": "#20252C",
+    "BLUE_560": "#191D23",
+    "BLUE_600": "#14171C",
+    "BLUE_630": "#101216",
+    "BLUE_660": "#0B0C0F",
+    "BLUE_700": "#08090A",
+
+    "GREEN_260": "#D1DED2",
+    "GREEN_300": "#C0D0C1",
+    "GREEN_330": "#AFC3B1",
+    "GREEN_345": "#9EB69F",
+    "GREEN_360": "#91AA93",
+    "GREEN_400": "#819A84",
+    "GREEN_430": "#303830",
+    "GREEN_460": "#252B26",
+    "GREEN_500": "#819A84",
+    "GREEN_530": "#20271F",
+    "GREEN_560": "#192019",
+    "GREEN_600": "#141914",
+    "GREEN_630": "#101410",
+    "GREEN_660": "#0B0E0B",
+    "GREEN_700": "#080A08",
+
+    "RED_260": "#D9BFC4",
+    "RED_300": "#CEABB2",
+    "RED_330": "#C999A2",
+    "RED_345": "#B9828A",
+    "RED_360": "#A9707A",
+    "RED_400": "#9D626D",
+    "RED_430": "#382C30",
+    "RED_460": "#2B2225",
+    "RED_500": "#B9828A",
+    "RED_530": "#211A1D",
+    "RED_560": "#191417",
+    "RED_600": "#141012",
+    "RED_630": "#100D0F",
+    "RED_660": "#0B090A",
+    "RED_700": "#080707",
+
+    "ORANGE_260": "#DED1B5",
+    "ORANGE_300": "#D4C5A5",
+    "ORANGE_330": "#CFC09D",
+    "ORANGE_345": "#C9B98D",
+    "ORANGE_360": "#BBAA7E",
+    "ORANGE_400": "#AD9C70",
+    "ORANGE_430": "#39352A",
+    "ORANGE_460": "#2B281F",
+    "ORANGE_500": "#C9B98D",
+    "ORANGE_530": "#211F19",
+    "ORANGE_560": "#191813",
+    "ORANGE_600": "#14130F",
+    "ORANGE_630": "#100F0C",
+    "ORANGE_660": "#0B0A08",
+    "ORANGE_700": "#080807"
+  },
+
+  "fonts": {
+    "ggsans-Normal": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "ggsans-Medium": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "ggsans-Bold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
+    "NotoSans-Normal": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-Bold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1"
+  },
+
+  "plus": {
+    "version": 0,
+    "iconpack": "rosiecord-plumpy",
+    "mentionLineColor": "#B8B1D9",
+    "backgroundImageUrl": "PASTE_YOUR_FRIEREN_BG_RAW_URL_HERE",
+    "backgroundAlpha": 0.72,
+    "blur": 0.35,
+    "customIconOverlays": true,
+    "customMessageMentionLineColor": true,
+    "icons": {
+      "ic_new_pins": ["#B8B1D9"],
+      "reply_bar": ["#B8B1D9"],
+      "mention_pill": ["#B8B1D9"],
+      "mention_line": ["#B8B1D9"],
+      "StatusOnline": ["#9EB69F"],
+      "StatusMobileOnline": ["#9EB69F"],
+      "StatusIdle": ["#C9B98D"],
+      "StatusDND": ["#B9828A"],
+      "StatusOffline": ["#777784"],
+      "StatusStreaming": ["#9B91C4"]
+    },
+    "themes+": {
+      "customIconOverlays": true,
+      "customMessageMentionLineColor": true
+    }
+  },
+
+  "spec": 2,
+
+  "background": {
+    "url": "PASTE_YOUR_FRIEREN_BG_RAW_URL_HERE",
+    "alpha": 0.72,
+    "blur": 0.35
+  }
+}
